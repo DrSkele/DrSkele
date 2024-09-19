@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Soft&color=003B6F&height=50&width=50"/>
 
   <h2>You can learn more about me here</h3>
-  https://drskele.notion.site/Seeking-for-the-Better-4726acad17c44ea6800e36e8ff3a9488?pvs=4
+  https://drskele.notion.site/106b99475e708093bad6cd35ef9b6bbd?pvs=4
   <br/>
   https://velog.io/@drskele/posts
   <h2></h2>
