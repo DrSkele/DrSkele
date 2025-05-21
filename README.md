@@ -18,7 +18,7 @@
 | Category | Details |
 |-----|-------|
 | Experience | (주)코트라스 병역특례 연구원 복무</br> - Unity 어플리케이션 개발 |
-| Education | Samsung Software Academy for Youth (2024.01.02 ~ 2024.12.19) </br> - 11th Mobile Track</br> - 삼성 청년 SW 아카데미 공통 프로젝트 우수상 (1등)|
+| Education | Samsung Software Academy for Youth (2024.01.02 ~ 2024.12.31) </br> - 11th Mobile Track</br> - 삼성 청년 SW 아카데미 공통 프로젝트 우수상 (1등)|
 
 ## Certificate
 | Category | Certificates |
